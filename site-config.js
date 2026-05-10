@@ -10,7 +10,7 @@ window.NUTMUNK_CONFIG = {
   whatsappNumber: "919634160639",
   email: "hello@nutmunk.com",
   location: "Rishikesh, Uttarakhand, India",
-  instagram: "#",
+  instagram: "https://www.instagram.com/nutmunk",
   tagline: "Mindful Indulgence",
 
   whatsappMessages: {
